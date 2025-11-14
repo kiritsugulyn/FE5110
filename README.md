@@ -1,4 +1,4 @@
-# 📘 Machine Learning Based Calibration of Heston Model
+# Machine Learning Based Calibration of Heston Model
 
 ## 🔍 Overview
 
